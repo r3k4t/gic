@@ -1,6 +1,6 @@
 
 [![python](https://img.shields.io/badge/Python3-PyQt5-cyan.svg)](https://en.wikipedia.org/wiki/PyQt)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)])(https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # GIC(GUI IP CHECKER)
 
@@ -8,6 +8,7 @@
 
 ### Description ###
 
+![Screenshot at 2020-11-26 23-21-40](https://user-images.githubusercontent.com/69615463/100382442-5f9c0500-3041-11eb-9d3b-095b8ad31dd2.png)
 
 
 
